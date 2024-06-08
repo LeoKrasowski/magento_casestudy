@@ -1,0 +1,21 @@
+# Ignore Magento 2 generated files
+/generated/
+/pub/static/
+/pub/media/
+/var/
+
+# Ignore Magento 2 specific directories
+/vendor/
+/app/etc/config.php
+/app/etc/env.php
+
+# Ignore Composer dependencies
+/composer.json
+/composer.lock
+
+# Ignore Node.js dependencies
+/node_modules/
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
